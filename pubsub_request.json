@@ -1,0 +1,12 @@
+[
+  {
+    "name": "published_at",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "created_at",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED"
+  }
+]
